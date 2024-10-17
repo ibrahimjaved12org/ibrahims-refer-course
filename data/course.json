@@ -17,7 +17,7 @@
   "course_title": "ibrahims-refer-course",
   "hide_download": false,
   "mit_learn_topics": [],
-  "course_description": "\\[OCW\\]([https://ocw.mit.edu](https://ocw.mit.edu/))",
+  "course_description": "\\[OCW\\]({{% resource_link \"22676743-793c-49ca-ab4f-a1c3ef34708c\" \"https://ocw.mit.edu\" %}})",
   "department_numbers": [
     "1"
   ],
