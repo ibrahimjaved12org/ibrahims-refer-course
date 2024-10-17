@@ -7,4 +7,3 @@ videos:
   content: []
   website: ibrahims-refer-course
 ---
-\[facebook2\](https://www.facebooks.com/)
