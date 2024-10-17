@@ -1,9 +1,6 @@
 ---
 content_type: resource-list
-description: 'test
-
-
-  \[facebook\]([https://www.facebook.com/](https://www.facebook.com/))'
+description: test
 draft: false
 resources:
   content:
