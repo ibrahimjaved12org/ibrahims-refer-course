@@ -1,9 +1,9 @@
 leftnav:
-- identifier: 054fd25a-c9b6-4032-82cc-e01f34fa7e0a
+- identifier: 1ec22bf3-ab54-41f4-8251-60826d8755b1
   name: Page 1
-  pageRef: /pages/p3
+  pageRef: /external-resources/page-1_1ec22bf3-ab54-41f4-8251-60826d8755b1
   weight: 10
-- identifier: 09766b09-8e5e-44ae-9874-b946995ff34c
-  name: Page2
-  pageRef: /external-resources/womens-technology-program_09766b09-8e5e-44ae-9874-b946995ff34c
+- identifier: 7bbc1112-3ea2-4033-9c13-ad0ebbbaea25
+  name: Page 2
+  pageRef: /external-resources/page-2_7bbc1112-3ea2-4033-9c13-ad0ebbbaea25
   weight: 20
