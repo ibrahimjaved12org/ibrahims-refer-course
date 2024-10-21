@@ -1,9 +1,6 @@
 ---
 content_type: resource-list
-description: 'test
-
-
-  \[facebook\]([https://www.facebook.com/](https://www.facebook.com/))'
+description: '{{% resource_link "8d6313d7-adea-4436-85c1-f70ab11b0427" "test" %}}'
 draft: false
 resources:
   content:
@@ -12,4 +9,3 @@ resources:
 title: reosource list
 uid: b063cb49-d992-4b4d-bd1e-33ec70c5da5f
 ---
-[facebook3](https://www.facebookss.com/)
