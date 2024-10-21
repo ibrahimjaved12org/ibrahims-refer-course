@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: TestTitle
+title: TestTitle2
 uid: 0cd4172f-ae85-480d-82a4-f84635994285
 video_files:
   archive_url: ''
