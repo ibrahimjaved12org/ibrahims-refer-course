@@ -7,3 +7,4 @@ videos:
   content: []
   website: ibrahims-refer-course
 ---
+{{% resource_link "b32bd936-7f04-43b6-9411-c04a2e5d4b04" "test2" %}}
