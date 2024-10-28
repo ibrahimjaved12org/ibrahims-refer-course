@@ -8,8 +8,11 @@ file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: ''
-learning_resource_types: []
+  image-alt: Hehe2
+learning_resource_types:
+- Competition Videos
+- Course Introduction
+- Demonstration Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: meow62.jpeg
@@ -25,3 +28,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
+Hehe
