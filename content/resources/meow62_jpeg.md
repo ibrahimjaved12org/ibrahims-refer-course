@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/ibrahims-refer-course-ibrahims-refer-course-spring-2023/meow62.jpeg
-file_size: 13419
+file_size: 78065
 file_type: image/jpeg
 image_metadata:
   caption: ''
