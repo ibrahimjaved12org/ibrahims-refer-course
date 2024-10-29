@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/ibrahims-refer-course-ibrahims-refer-course-spring-2023/pic1.jpg
-file_size: 11853
+file_size: 78065
 file_type: image/jpeg
 image_metadata:
   caption: ''
