@@ -8,7 +8,3 @@ videos:
   website: ibrahims-refer-course
 ---
 {{% resource_link "b32bd936-7f04-43b6-9411-c04a2e5d4b04" "test2" %}}
-
-{{% resource_link "e3b2fb4a-65d5-40cd-9d34-68140d856ce5" "google3444" %}}
-
-{{% resource_link "e3b2fb4a-65d5-40cd-9d34-68140d856ce5" "google5656" %}}
