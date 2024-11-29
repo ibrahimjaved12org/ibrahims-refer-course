@@ -6,5 +6,5 @@ license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: ''
 title: google222
 uid: 8815c4cc-797b-4ae0-891a-7f4ba4c7dcb1
-wayback_url: ''
+wayback_url: https://web.archive.org/web/20241129092144/https://www.google222.com/
 ---
