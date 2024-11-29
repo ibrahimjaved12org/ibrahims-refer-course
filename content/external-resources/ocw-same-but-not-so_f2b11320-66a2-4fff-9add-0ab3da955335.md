@@ -6,5 +6,5 @@ license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: ''
 title: OCW same but not so
 uid: f2b11320-66a2-4fff-9add-0ab3da955335
-wayback_url: ''
+wayback_url: https://web.archive.org/web/20241129081531/https://ocw.mit.edu/
 ---
