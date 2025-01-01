@@ -18,7 +18,7 @@ uid: 19bef8eb-21b1-4310-a189-02aea7191adb
 video_files:
   archive_url: ''
   video_captions_file: ''
-  video_thumbnail_file: ''
+  video_thumbnail_file: https://img.youtube.com/vi/dNlow1wdRgM/default.jpg
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
