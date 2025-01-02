@@ -17,7 +17,7 @@ uid: cb41d3d6-2663-4342-8f2b-631c6095d7af
 video_files:
   archive_url: http://ia802800.us.archive.org/19/items/MIT24.908S17/MIT24_908S22_Part_1_300k.mp4
   video_captions_file: /courses/ibrahims-cat-course/s3e8_amah_edoh.vtt
-  video_thumbnail_file: ''
+  video_thumbnail_file: https://img.youtube.com/vi/BGGOn-H7s3Q/default.jpg
   video_transcript_file: /courses/ibrahims-cat-course/s3e8_amah_edoh.pdf
 video_metadata:
   video_speakers: ''

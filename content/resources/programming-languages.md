@@ -9,21 +9,20 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Demonstration Videos
-- Activity Assignments with Examples
+- Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Title
-uid: 19bef8eb-21b1-4310-a189-02aea7191adb
+title: programming languages
+uid: 9fe4dfb8-6020-4a0c-a580-228612fca2b5
 video_files:
   archive_url: ''
   video_captions_file: ''
-  video_thumbnail_file: https://img.youtube.com/vi/dNlow1wdRgM/default.jpg
+  video_thumbnail_file: https://img.youtube.com/vi/XlvfHOrF26M/default.jpg
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: dNlow1wdRgM
+  youtube_id: XlvfHOrF26M
 ---
-Descripion
+programming lan that everyone sould learn
