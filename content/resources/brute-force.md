@@ -9,21 +9,21 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Demonstration Videos
-- Activity Assignments with Examples
+- Activity Assignments
+- Course Introduction
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Title
-uid: 19bef8eb-21b1-4310-a189-02aea7191adb
+title: brute force
+uid: e770c234-5219-4e35-95f6-ae1dab8aca47
 video_files:
   archive_url: ''
   video_captions_file: ''
-  video_thumbnail_file: https://img.youtube.com/vi/dNlow1wdRgM/default.jpg
+  video_thumbnail_file: https://img.youtube.com/vi/ig-dtw8Um_k/default.jpg
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: dNlow1wdRgM
+  youtube_id: ig-dtw8Um_k
 ---
-Descripion
+br force on sorted list
