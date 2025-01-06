@@ -12,11 +12,11 @@ learning_resource_types:
 - Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: programming languages
+title: test
 uid: 9fe4dfb8-6020-4a0c-a580-228612fca2b5
 video_files:
   archive_url: ''
-  video_captions_file: /courses/ibrahims-refer-course-ibrahims-refer-course-spring-2023/test.vtt
+  video_captions_file: ''
   video_thumbnail_file: https://img.youtube.com/vi/XlvfHOrF26M/default.jpg
   video_transcript_file: /courses/ibrahims-refer-course-ibrahims-refer-course-spring-2023/test.vtt
 video_metadata:
