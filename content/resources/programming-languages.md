@@ -12,7 +12,7 @@ learning_resource_types:
 - Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: test
+title: testd
 uid: 9fe4dfb8-6020-4a0c-a580-228612fca2b5
 video_files:
   archive_url: ''
