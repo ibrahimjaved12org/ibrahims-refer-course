@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: WhatsApp Video 2024-06-07 at 12.21.53 PM.mp4
+title: whatsappvid
 uid: 5b500b33-5b63-4681-84ea-94efc5784901
 video_files:
   archive_url: ''
