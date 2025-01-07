@@ -15,9 +15,9 @@ title: test video 9
 uid: 23b5bea9-9a8a-43b0-a01e-683681255abb
 video_files:
   archive_url: ''
-  video_captions_file: /courses/ibrahims-refer-course-ibrahims-refer-course-spring-2023/testvideo9_captions.vtt
+  video_captions_file: /courses/ibrahims-refer-course-ibrahims-refer-course-spring-2023/testvideo10_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/OtwHJwP-juo/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/ibrahims-refer-course-ibrahims-refer-course-spring-2023/testvideo10_captions.vtt
 video_metadata:
   video_speakers: ''
   video_tags: ''
